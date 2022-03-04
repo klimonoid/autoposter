@@ -38,3 +38,9 @@ bin/
 hs_err_pid*.log
 
 gradle-user-home
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle.kts
+/.idea/
+/gradle/
